@@ -1,0 +1,163 @@
+body {
+    background: #c31432;
+    background: linear-gradient(to right, #240b36, #c31432);
+}
+
+li {
+    list-style-type: none;
+    margin-left: 38%;
+    font-size: 30px;
+}
+
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+.heading {
+    margin-left: 40%;
+}
+
+/*buttons*/
+
+.button {
+    backface-visibility: hidden;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: linear-gradient(110deg, #eee 0%, #e3e3e3 10%, #413232 20.1%, #fff 25%, #f0f0f0 26%, #b58d8e 28.000000000000004%, #97595a 55.00000000000001%, #973133 100%);
+    border-radius: 100px;
+    border: 1px solid #f3222c;
+    border-width: 1px 1px 1px 1px;
+    padding: 5px 20px 7px 20px;
+    box-shadow: 0px 2px 2px rgba(0%, 0%, 0%, 0.5), 0px 0px 5px rgba(0, 0, 0, 0.25), 0px 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #0c0808;
+    font-size: 16px;
+    font-family: Helvetica Neue;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.3)
+}
+
+.button > div {
+    color: #999;
+    font-size: 10px;
+    font-family: Helvetica Neue;
+    font-weight: initial;
+    font-style: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px
+}
+
+.button > i {
+    font-size: 1em;
+    border-radius: 0px;
+    border: 0px solid transparent;
+    border-width: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: static
+}
+
+.button > .ld {
+    font-size: initial
+}
+
+.button2 {
+    backface-visibility: hidden;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: linear-gradient(110deg, #eee 0%, #e3e3e3 10%, #413232 20.1%, #fff 25%, #f0f0f0 26%, #b58d8e 28.000000000000004%, #97595a 55.00000000000001%, #973133 100%);
+    border-radius: 100px;
+    border: 1px solid #f3222c;
+    border-width: 1px 1px 1px 1px;
+    padding: 5px 20px 7px 20px;
+    box-shadow: 0px 2px 2px rgba(0%, 0%, 0%, 0.5), 0px 0px 5px rgba(0, 0, 0, 0.25), 0px 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #0c0808;
+    font-size: 16px;
+    font-family: Helvetica Neue;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.3);
+    margin-left: 30%;
+}
+
+.button2 > div {
+    color: #999;
+    font-size: 10px;
+    font-family: Helvetica Neue;
+    font-weight: initial;
+    font-style: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px
+}
+
+.button2 > i {
+    font-size: 1em;
+    border-radius: 0px;
+    border: 0px solid transparent;
+    border-width: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: static
+}
+
+.button2 > .ld {
+    font-size: initial
+}
+
+.button3 {
+    backface-visibility: hidden;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    background: linear-gradient(110deg, #eee 0%, #e3e3e3 10%, #413232 20.1%, #fff 25%, #f0f0f0 26%, #b58d8e 28.000000000000004%, #97595a 55.00000000000001%, #973133 100%);
+    border-radius: 100px;
+    border: 1px solid #f3222c;
+    border-width: 1px 1px 1px 1px;
+    padding: 5px 20px 7px 20px;
+    box-shadow: 0px 2px 2px rgba(0%, 0%, 0%, 0.5), 0px 0px 5px rgba(0, 0, 0, 0.25), 0px 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #0c0808;
+    font-size: 16px;
+    font-family: Helvetica Neue;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.3);
+    margin-left: 120px;
+}
+
+.button3 > div {
+    color: #999;
+    font-size: 10px;
+    font-family: Helvetica Neue;
+    font-weight: initial;
+    font-style: normal;
+    text-align: center;
+    margin: 0px 0px 0px 0px
+}
+
+.button3 > i {
+    font-size: 1em;
+    border-radius: 0px;
+    border: 0px solid transparent;
+    border-width: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: static
+}
+
+.button3 > .ld {
+    font-size: initial
+}
+/* Text boxes*/
+.message{
+    width: 100px;
+	height: 100px; }
+.the label{
+	color: crimson;
+}

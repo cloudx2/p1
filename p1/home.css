@@ -1,0 +1,84 @@
+body {
+    background: #c31432;
+    background: linear-gradient(to right, #240b36, #c31432);
+
+}
+
+.goku {
+    float: left;
+    width: .1px;
+    position: absolute;
+    margin: -58px 0 0;
+
+
+
+}
+
+
+.navs {
+    margin-left: 42%;
+    font-size: 30px;
+    text-shadow: outset 3px 2px 1px #9daef5;
+    box-shadow: outset 6px 5px 24px #666666;
+}
+
+img {
+    margin-left: 42%
+}
+
+.porque {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Akronim'
+}
+
+.porque {
+    text-shadow: 12px 10px 8px
+}
+
+/* animate that why boy */
+.porque {
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+/* animate that header son*/
+.heading {
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+a {
+    color:crimson;
+}

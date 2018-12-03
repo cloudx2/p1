@@ -1,0 +1,28 @@
+body {
+    background: #c31432;
+    background: linear-gradient(to right, #240b36, #c31432);
+}
+
+li {
+    list-style-type: none;
+    margin-left: 38%;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+.heading {
+    margin-left: 40%;
+}
+
+img {
+    padding: 1px;
+    border: 2px groove crimson;
+	float: left
+}
+.about{
+	color:aliceblue;
+}
